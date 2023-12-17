@@ -1,8 +1,6 @@
-# ascii-chess
-Chess with ascii characters. Version with full ascii art coming soon.
 # ASCII Chess
 
-ASCII Chess is a simple console-based chess game implemented in Python with ASCII art for a user-friendly interface.
+ASCII Chess is a simple console-based chess game implemented in Python with ASCII art for a user-friendly interface. Version with full ascii art coming soon.
 
 ## Features
 
