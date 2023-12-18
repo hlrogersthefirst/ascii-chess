@@ -30,6 +30,7 @@ White's turn.
 Enter the starting position (e.g., e2): e2
 Enter the ending position (e.g., e4): e4
 
+(VIEW IN RAW TO SEE):
   a b c d e f g h
  +----------------
 8|r n b q k b n r|8
