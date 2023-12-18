@@ -8,7 +8,7 @@ Henry Rogers CS Section A
 """
 # import module
 from tabulate import tabulate
-from smc import *
+from variables import *
 
 # create header
 HEAD = ["a", "b", "c", "d", "e", "f", "g", "h", " "]
