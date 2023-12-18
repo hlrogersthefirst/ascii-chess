@@ -1,7 +1,6 @@
 # ASCII Chess
 
-ASCII Chess is a simple console-based chess game implemented in Python with ASCII art for a user-friendly interface. Version with full ASCII art coming soon.
-
+ASCII Chess is a simple console-based chess game implemented in Python with ASCII art for a user-friendly interface.
 ## Features
 
 - Display the chess board with ASCII art.
@@ -26,7 +25,7 @@ ASCII Chess is a simple console-based chess game implemented in Python with ASCI
 
 When it's your turn, enter the starting position using chess notation to tell the program the position of the piece you would like to move. Then, the ending position of where you want to move the piece to.
 
-example:
+example (here capitalized letters are white, lowercase are black):
 White's turn.
 Enter the starting position (e.g., e2): e2
 Enter the ending position (e.g., e4): e4
@@ -64,7 +63,6 @@ Enter the starting position (e.g., e7): f7
 Enter the ending position (e.g., e5): f5
 
 Note: If the board and the pieces don't allign right, try adjusting your window.
-Capitalized letters are white, lowercase are black.
 
 Contributions are welcome! Feel free to open issues or pull requests.
 Good luck!
