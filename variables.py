@@ -31,7 +31,7 @@ white_square_black_king = white_square_white_king.replace(" ", "*")
 black_square_white_king = white_square_white_king.replace("`", "#")
 black_square_black_king = black_square_white_king.replace(" ", "*")
 
-black_piece_row = [white_square_black_rook, black_square_black_knight, white_square_black_bishop, white_square_black_queen, black_square_black_king, black_square_black_bishop, white_square_black_knight, black_square_black_rook]
+black_piece_row = [white_square_black_rook, black_square_black_knight, white_square_black_bishop, black_square_black_queen, white_square_black_king, black_square_black_bishop, white_square_black_knight, black_square_black_rook]
 white_piece_row = [black_square_white_rook, white_square_white_knight, black_square_white_bishop, white_square_white_queen, black_square_white_king, white_square_white_bishop, black_square_white_knight, white_square_white_rook]
 
 white_row = [white_square, black_square, white_square, black_square, white_square, black_square, white_square, black_square]
